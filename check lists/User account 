@@ -1,0 +1,5 @@
+Verify that new users can register successfully with valid details.
+Check validation errors for incorrect or missing information during registration.
+Test the login functionality with valid and invalid credentials.
+Ensure that password reset and email verification processes work correctly.
+Verify that logged-in users can view their order history and account details

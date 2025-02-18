@@ -1,0 +1,4 @@
+ Verify that the search bar returns accurate results based on keywords.
+ Ensure that search results update dynamically.
+ Check search suggestions  when typing in the search bar.
+ Ensure price filter works correctly.

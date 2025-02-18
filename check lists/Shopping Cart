@@ -1,0 +1,8 @@
+Verify that books added to the cart are displayed correctly with accurate quantity and price.
+Check that the “Remove” and “Update Quantity” options function properly.
+Ensure the total price updates dynamically when items are added or removed.
+Test the "Checkout” button for correct redirection.
+Test the "Clear all" button for deleting all books from the shoping cart. 
+Verify that an empty cart displays an appropriate message.
+Verify if unlogged user can buy books. 
+

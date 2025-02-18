@@ -1,0 +1,3 @@
+Ensure all book details (title, author, price, description, availability, ratings) are correct.
+Verify if it possible to add book to cart from "Book Details" page 
+Verify if on "Book Details" page recomedation for similiar books is shown 

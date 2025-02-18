@@ -1,0 +1,8 @@
+ Verify the logo is displayed correctly and redirects to the homepage while clicking on it. 
+ Ensure the search bar functions correctly and displays relevant results. 
+ Check if books are displayed with proper details (title, author, price, and cover image).
+ Verify that the book categories and filters work correctly.
+ Test the “Add to Cart” button for each book.
+ Check if page "Book Details" is opened after click on any book 
+ 
+ 
